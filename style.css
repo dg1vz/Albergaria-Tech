@@ -53,7 +53,7 @@ nav ul li a:hover {
   color: #00bfff;
 }
 
-/* HERO */
+/* conteudo principal da pagina */
 .inicio {
   padding: 80px 0;
 }
@@ -86,7 +86,7 @@ nav ul li a:hover {
   width: 100%;
 }
 
-/* AJUDA */
+/* secao de ajuda */
 .ajuda {
   padding: 60px 0;
 }
@@ -129,7 +129,7 @@ nav ul li a:hover {
   font-size: 1.3rem;
 }
 
-/* SERVIÇOS */
+/* nossos serviços */
 .servicos {
   padding: 60px 0;
 }
@@ -157,14 +157,14 @@ nav ul li a:hover {
 
 .cartao:hover {
   background: #00bfff;
-  color: #000;
+  color: #000000;
 }
 
 .cartao h3 {
   font-size: 1.2rem;
 }
 
-/* SOBRE */
+/* sobre da pagina */
 .sobre {
   padding: 60px 0;
 }
